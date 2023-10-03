@@ -2,7 +2,7 @@
   "name": "create-remix-dapp",
   "author": "henryzhu.eth",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "⚡ Create Remix powered web3 dApps with one command.",
   "keywords": [
     "web3",
